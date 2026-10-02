@@ -1,0 +1,9 @@
+{
+  "name": "studari",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Studari — a study-notes and quiz app as a standalone website — static frontend + a serverless function that proxies the Anthropic API.",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
